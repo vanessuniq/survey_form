@@ -4,7 +4,7 @@ A basic survey form built with HTML and CSS to collect users' data.
 
 # Hosted Page
 
-The static web page is hosted at ...
+The static web page is hosted at <https://vanessuniq.github.io/survey_form/>.
 
 # Stacks Used
 
